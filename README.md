@@ -6,7 +6,7 @@
 
 - 🎓 Pre-final year IT student at **National Institute of Technology, Kurukshetra**
 
-- 👩‍💻 A **Competitive Programmer** and a **Full Stack Developer**
+- 👩‍💻 **Competitive Programmer** and **Full Stack Developer**
 
 - 💬 Ask me about C++, HTML, CSS, Bootstrap, JavaScript, Typescript, React, Nodejs
 
