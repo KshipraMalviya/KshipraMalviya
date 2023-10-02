@@ -4,6 +4,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/KshipraMalviya/KshipraMalviya/assets/101544513/45bbc051-ff61-4ee8-93d9-40b50b9cf3f6">
 
+- 🎓 Pre-final year IT student at **National Institute of Technology, Kurukshetra**
+
+- 👩‍💻 A **Competitive Programmer** and a **Full Stack Developer**
+
+- 💬 Ask me about C++, HTML, CSS, Bootstrap, JavaScript, Typescript, React, Nodejs
+
 - 📫 How to reach me **kshipramalviya7@gmail.com**
 
 - ⚡ Fun fact **I can listen to flute for hours.**
@@ -12,6 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kshipra-malviya-814965228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshipra-malviya-814965228" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lotus18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lotus18" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/c_o_d_e_r_8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="c_o_d_e_r_8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
