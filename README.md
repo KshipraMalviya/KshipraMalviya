@@ -8,7 +8,9 @@
 
 - 👩‍💻 **Competitive Programmer** and **Full Stack Developer**
 
-- 💬 Ask me about C++, HTML, CSS, Bootstrap, JavaScript, Typescript, React, Nodejs
+- 💕 **DevOps**
+
+- 💬 Ask me about C++, HTML, CSS, Bootstrap, JavaScript, Typescript, React, Nodejs, DevOps
 
 - 📫 How to reach me **kshipramalviya7@gmail.com**
 
