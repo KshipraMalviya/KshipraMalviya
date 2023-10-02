@@ -10,7 +10,7 @@
 
 - 💕 **DevOps**
 
-- 💬 Ask me about C++, Python, JavaScript, DevOps
+- 💬 Ask me about C++, Python, JavaScript, React, Nodejs, DevOps
 
 - 📫 How to reach me **kshipramalviya7@gmail.com**
 
