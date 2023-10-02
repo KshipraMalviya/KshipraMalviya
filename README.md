@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/KshipraMalviya/KshipraMalviya/assets/101544513/7cad0292-ee9d-4c60-b17d-7fe2580bee87)
 <h1 align="center">Hi 👋, I'm Kshipra</h1>
-<h3 align="center">An enthusiastic developer from India</h3>
+<h3 align="center">An avid learner and enthusiastic developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/KshipraMalviya/KshipraMalviya/assets/101544513/45bbc051-ff61-4ee8-93d9-40b50b9cf3f6">
 
