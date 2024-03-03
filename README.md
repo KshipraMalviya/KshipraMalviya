@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kshipramalviya7@gmail.com**
 
-- ⚡ Fun fact **I can listen to flute for hours.**
+- 💕 Fun fact **I can listen to flute for hours.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
